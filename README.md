@@ -1,2 +1,1 @@
 # 10th_GFS
-FAST_NUCES
